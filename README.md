@@ -93,20 +93,3 @@ Contributions are welcome! Feel free to open a pull request or submit an issue.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- FreeCodeCamp for the original project idea
-- The React and Tailwind CSS communities for the excellent documentation
-- All contributors who help improve this project
-
-## 📬 Contact
-
-If you have any questions or feedback, please open an issue on GitHub or reach out to me at your-email@example.com.
-
----
-
-Happy coding! 💻✨
