@@ -26,7 +26,7 @@ function RegisterForm() {
 
     const saveToDatabase = async (formData) => {
         try {
-            const response = await fetch('http://localhost:3000/surveys', {
+            const response = await fetch('https://survey-form-uca4.onrender.com', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
